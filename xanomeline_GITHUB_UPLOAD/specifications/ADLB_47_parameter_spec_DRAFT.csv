@@ -1,0 +1,48 @@
+LBTESTCD,PARAMCD,PARAM,PARAMN,PARCAT1,AVALU,status,reviewer
+ALB,ALB,Albumin (g/L),1,CHEMISTRY,g/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+ALP,ALP,Alkaline Phosphatase (U/L),2,CHEMISTRY,U/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+ALT,ALT,Alanine Aminotransferase (U/L),3,CHEMISTRY,U/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+ANISO,ANISO,Anisocytes,4,HEMATOLOGY,,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+AST,AST,Aspartate Aminotransferase (U/L),5,CHEMISTRY,U/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+BASO,BASO,Basophils (GI/L),6,HEMATOLOGY,GI/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+BASOLE,BASOLE,Basophils/Leukocytes (FRACTION),7,HEMATOLOGY,FRACTION,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+BILI,BILI,Bilirubin (umol/L),8,CHEMISTRY,umol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+BUN,BUN,Blood Urea Nitrogen (mmol/L),9,CHEMISTRY,mmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+CA,CA,Calcium (mmol/L),10,CHEMISTRY,mmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+CHOL,CHOL,Cholesterol (mmol/L),11,CHEMISTRY,mmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+CK,CK,Creatine Kinase (U/L),12,CHEMISTRY,U/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+CL,CL,Chloride (mmol/L),13,CHEMISTRY,mmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+COLOR,COLOR,Color,14,URINALYSIS,,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+CREAT,CREAT,Creatinine (umol/L),15,CHEMISTRY,umol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+EOS,EOS,Eosinophils (GI/L),16,HEMATOLOGY,GI/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+EOSLE,EOSLE,Eosinophils/Leukocytes (FRACTION),17,HEMATOLOGY,FRACTION,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+GGT,GGT,Gamma Glutamyl Transferase (U/L),18,CHEMISTRY,U/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+GLUC,GLUC,Glucose (mmol/L),19,CHEMISTRY,mmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+HBA1C,HBA1C,Hemoglobin A1C (1),20,,1,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+HCT,HCT,Hematocrit (1),21,HEMATOLOGY,1,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+HGB,HGB,Hemoglobin (mmol/L),22,HEMATOLOGY,mmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+K,K,Potassium (mmol/L),23,CHEMISTRY,mmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+KETONES,KETONES,Ketones,24,URINALYSIS,,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+LYM,LYM,Lymphocytes (GI/L),25,HEMATOLOGY,GI/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+LYMLE,LYMLE,Lymphocytes/Leukocytes (FRACTION),26,HEMATOLOGY,FRACTION,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+MACROCY,MACROCY,Macrocytes,27,HEMATOLOGY,,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+MCH,MCH,Ery. Mean Corpuscular Hemoglobin (fmol(Fe)),28,HEMATOLOGY,fmol(Fe),"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+MCHC,MCHC,Ery. Mean Corpuscular HGB Concentration (mmol/L),29,HEMATOLOGY,mmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+MCV,MCV,Ery. Mean Corpuscular Volume (fL),30,HEMATOLOGY,fL,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+MICROCY,MICROCY,Microcytes,31,HEMATOLOGY,,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+MONO,MONO,Monocytes (GI/L),32,HEMATOLOGY,GI/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+MONOLE,MONOLE,Monocytes/Leukocytes (FRACTION),33,HEMATOLOGY,FRACTION,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+PH,PH,pH,34,URINALYSIS,,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+PHOS,PHOS,Phosphate (mmol/L),35,CHEMISTRY,mmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+PLAT,PLAT,Platelet (GI/L),36,HEMATOLOGY,GI/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+POIKILO,POIKILO,Poikilocytes,37,HEMATOLOGY,,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+POLYCHR,POLYCHR,Polychromasia,38,HEMATOLOGY,,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+PROT,PROT,Protein (g/L),39,CHEMISTRY,g/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+RBC,RBC,Erythrocytes (TI/L),40,HEMATOLOGY,TI/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+SODIUM,SODIUM,Sodium (mmol/L),41,CHEMISTRY,mmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+SPGRAV,SPGRAV,Specific Gravity,42,URINALYSIS,,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+TSH,TSH,Thyrotropin (mU/L),43,OTHER,mU/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+URATE,URATE,Urate (umol/L),44,CHEMISTRY,umol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+UROBIL,UROBIL,Urobilinogen,45,URINALYSIS,,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+VITB12,VITB12,Vitamin B12 (pmol/L),46,OTHER,pmol/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
+WBC,WBC,Leukocytes (GI/L),47,HEMATOLOGY,GI/L,"DRAFT - verify source terminology, AVALU and reference limits",Unassigned
