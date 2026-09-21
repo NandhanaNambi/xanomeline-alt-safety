@@ -1,0 +1,11 @@
+Educational TLFs only; not submission-ready.
+Demographic denominator: safety subjects (SAFFL=Y), grouped by assigned arm TRT01P.
+AE table: ALL REPORTED adverse events in safety subjects, regardless of onset timing. NOT a TEAE table.
+AE term display: Source decoded term (AEDECOD)
+AE subject incidence: distinct subjects per treatment; AE records and subjects are distinct metrics.
+SAE flag: AESER=Y as recorded; missing AESER counted separately.
+ALT listing: local subject-level output ONLY; one row per safety subject.
+AE-by-term counts remain private pending a disclosure-control review.
+No individual data, source ADaM, XPT, or unapproved submission metadata may be committed.
+
+Public disclosure decision: serious-AE columns are excluded from the public aggregate because the observed counts are small. The original QC-checked table is retained locally.

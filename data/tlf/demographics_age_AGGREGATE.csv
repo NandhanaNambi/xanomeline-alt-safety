@@ -1,0 +1,4 @@
+ARM,denominator_n,age_available,age_missing,age_mean,age_sd,age_median,age_min,age_max
+Placebo,86,86,0,75.20930232558139,8.590167127141928,76,52,89
+Xanomeline Low Dose,84,84,0,75.66666666666667,8.28605059954093,77.5,51,88
+Xanomeline High Dose,84,84,0,74.38095238095238,7.886093848698236,76,56,88
